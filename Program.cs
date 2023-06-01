@@ -7,7 +7,7 @@ namespace CalculadoraA{
         static void Main(string[] args){
 
             Calculadora calculadora = new Calculadora();
-            Console.WriteLine("Escriba la operacion a realizar:\nSumar\nRestar\nMultiplicar\nDividir\nSalir");
+            Console.WriteLine("Escriba la operacion a realizar:\nsumar\nRestar\nMultiplicar\nDividir\nSalir");
 
             while(true){
                 Console.WriteLine("Comando:");
